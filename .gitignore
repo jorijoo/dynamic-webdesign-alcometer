@@ -1,4 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+startDevelopment.bat
+/do_not_upload
 
 # dependencies
 /node_modules
