@@ -2,11 +2,11 @@ const LOCAL_DEFAULTS = {
     'WEIGHT': "60",
     'BOTTLES': 0,
     'TIME': 0,
-    'GENDER': {
+    'GENDER': [
         // Default gender is first variable under gender
-        'FEMALE_GENDER': 'Female',
-        'MALE_GENDER': 'Male',
-    },
+        'Female', 
+        'Male'
+    ]
 }
 
 Object.freeze(LOCAL_DEFAULTS)
