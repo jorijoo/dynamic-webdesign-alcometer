@@ -13,7 +13,7 @@ Calculate alcohol blood level by input:
 
 ## Installation
 
-$ npm init react-app .
+$ npm install
 
 ## Usage
 
